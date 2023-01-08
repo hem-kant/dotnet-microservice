@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/prometheus-2.41.0.darwin-amd64"
+		}
+	],
+	"settings": {}
+}
